@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full Stack Developer working in Stockholm, Sweden.
+#### I'm a Full Stack Developer working in Västerås, Sweden.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=giacoletti&layout=compact&theme=dark&hide_border=true" >
